@@ -6,7 +6,7 @@ import * as run from './index.run';
 
 
 const App = angular.module(
-  "learn-webpack", [
+  "webpack-learn", [
     // plugins
     require('angular-ui-router'),
     "ngAnimate", 
